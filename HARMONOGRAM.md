@@ -10,6 +10,18 @@ Linki naffy:
 - Second Brain Premium: https://www.naffy.io/szablony-notion/second-brain-wersja-premium-kuk
 - Student OS: https://www.naffy.io/szablony-notion/student-os-system-do-nauki-w-notion-nqc
 
+## Źródła materiałów na komputerze (sprawdzaj wszystkie przy każdym uzupełnianiu)
+- C:\Users\Asus\Desktop\film-second-brain\output\ — filmy Second Brain (już w repo), opis.txt
+- C:\Users\Asus\Desktop\film-second-brain\posty\ — posty Second Brain + opisy.txt (już w repo)
+- C:\Users\Asus\Desktop\film-second-brain\stories\ — stories wszystkich produktów (już w repo)
+- C:\Users\Asus\Desktop\grafiki-second-brain-premium\film\output\ — filmy Premium: wersja_A.mp4, wersja_B.mp4, okladka_A/B.png, opis.txt
+- C:\Users\Asus\Desktop\grafiki-student-os\film\output\ — filmy Student OS: wersja_A–D.mp4, okladka_A–D.png, opis.txt (w przygotowaniu)
+- C:\Users\Asus\Desktop\grafiki-student-os\posty\ — posty Student OS (1080x1350) + opisy.txt (w przygotowaniu)
+Pomijaj pliki *_bez_muzyki.mp4, storyboard_*.png i podglad.png. Okładki filmów (1080x1920) nadają się na stories.
+Folder w repo dla produktu: second-brain/, premium/, student-os/.
+
+Ceny do opisów: Second Brain 79 zł, Student OS 89 zł, Premium — tylko jeśli jest w jego opis.txt.
+
 ## Szablon tygodnia
 Instagram (czas Europe/Warsaw):
 - Pon: story 8:30, post 11:00, reels 18:00
