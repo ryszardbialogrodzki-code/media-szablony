@@ -1,0 +1,82 @@
+{
+  "_instrukcja": "Każdy wpis w 'tydzien' to: 'GODZINA KANAŁ TYP'. Kanały: instagram, tiktok, youtube. Typy: na instagramie story / post / reels, na tiktoku i youtube: film. Godziny w czasie polskim. Pilnuj przecinków i cudzysłowów - szczegóły w INSTRUKCJA.md.",
+  "strefa_czasowa": "Europe/Warsaw",
+  "horyzont_dni": 7,
+  "limit_na_kanal": 10,
+  "story_powtorka_po_dniach": 14,
+  "organizacja_buffer": "6a37eceadecfdb9517e32e0d",
+  "kanaly": {
+    "instagram": "6adcecef778b240e2fb17cb5",
+    "tiktok": "6addf6f12f1f5ed648c80d5c",
+    "youtube": "6b047cfe8541f09ecb79c29f"
+  },
+  "repo_raw": "https://raw.githubusercontent.com/ryszardbialogrodzki-code/media-szablony/main/",
+  "produkty": [
+    {
+      "folder": "second-brain",
+      "nazwa": "Second Brain",
+      "link": "https://www.naffy.io/szablony-notion/second-brain-twoj-drugi-mozg-podstawa",
+      "cena": "79 zł"
+    },
+    {
+      "folder": "premium",
+      "nazwa": "Second Brain Premium",
+      "link": "https://www.naffy.io/szablony-notion/second-brain-wersja-premium-kuk",
+      "cena": ""
+    },
+    {
+      "folder": "student-os",
+      "nazwa": "Student OS",
+      "link": "https://www.naffy.io/szablony-notion/student-os-system-do-nauki-w-notion-nqc",
+      "cena": "89 zł"
+    }
+  ],
+  "youtube": {
+    "kategoria": "26",
+    "prywatnosc": "public",
+    "dla_dzieci": false
+  },
+  "tydzien": {
+    "poniedzialek": [
+      "08:30 instagram story",
+      "11:00 instagram post",
+      "18:00 instagram reels",
+      "18:00 tiktok film",
+      "18:00 youtube film"
+    ],
+    "wtorek": [
+      "08:30 instagram story",
+      "18:00 instagram reels"
+    ],
+    "sroda": [
+      "08:30 instagram story",
+      "11:00 instagram post",
+      "18:00 tiktok film",
+      "18:00 youtube film",
+      "20:30 instagram story"
+    ],
+    "czwartek": [
+      "08:30 instagram story",
+      "12:30 instagram reels",
+      "18:00 instagram reels",
+      "20:30 instagram story"
+    ],
+    "piatek": [
+      "08:30 instagram story",
+      "11:00 instagram post",
+      "18:00 instagram reels",
+      "18:00 tiktok film",
+      "18:00 youtube film"
+    ],
+    "sobota": [
+      "10:00 instagram story",
+      "12:30 instagram reels",
+      "19:00 instagram reels"
+    ],
+    "niedziela": [
+      "10:00 instagram story",
+      "11:00 instagram post",
+      "19:00 instagram reels"
+    ]
+  }
+}

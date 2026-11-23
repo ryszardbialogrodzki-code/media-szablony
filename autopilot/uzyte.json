@@ -1,0 +1,4 @@
+{
+  "opis": "Lista postów utworzonych przez autopilota (plik, kanał, typ, data publikacji, ID posta w Buffer). Nie edytuj ręcznie, chyba że chcesz, żeby autopilot uznał jakiś plik za nieużyty (usuń jego wpis).",
+  "wpisy": []
+}

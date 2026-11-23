@@ -1,0 +1,16 @@
+84% z kolokwium i 90% ze sprawdzianu to średnia 88%, a nie 87%. Wszystko przez wagi.
+
+Średnia ważona mnoży każdy wynik przez jego wagę, sumuje i dzieli przez sumę wag:
+(84 · 0,5 + 90 · 1) / (0,5 + 1) = 132 / 1,5 = 88%.
+Zwykła średnia dałaby (84 + 90) / 2 = 87%, bo traktuje obie oceny tak samo.
+
+Chcesz mieć 90%? Kolejny sprawdzian ma wagę 1, więc suma wag rośnie do 2,5:
+(132 + x) / 2,5 = 90, czyli x = 93%.
+
+W Student OS (system do nauki w Notion) to liczy się samo: wpisujesz wynik i wagę oceny, a strona przedmiotu pokazuje średnią ważoną i różnicę do Twojego celu.
+
+Student OS kosztuje 89 zł. Zapisz post przed sesją.
+
+Link w bio 🔗
+
+#sredniawazona #srednia #oceny #studia #studenci #liceum #nauka #studytips #notion #notiontemplate #studygram

@@ -1,0 +1,65 @@
+name: Uzupełnij kolejkę Buffer
+
+on:
+  schedule:
+    # Środa i niedziela 18:37 UTC = 19:37 zimą / 20:37 latem (czas polski)
+    - cron: "37 18 * * 0,3"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Tylko podgląd (nic nie tworzy w Buffer)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: uzupelnij-kolejke
+  cancel-in-progress: false
+
+jobs:
+  uzupelnij:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Pobierz repo
+        uses: actions/checkout@v5
+
+      - name: Python 3.12
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Zainstaluj zależności
+        run: pip install -r autopilot/requirements.txt
+
+      - name: Uruchom autopilota
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          # Z harmonogramu (cron) zawsze prawdziwe uruchomienie; ręcznie wg przełącznika dry_run.
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
+        run: |
+          if [ "$DRY_RUN" = "true" ]; then
+            python autopilot/uzupelnij.py --dry-run
+          else
+            python autopilot/uzupelnij.py
+          fi
+
+      - name: Zapisz zmiany w repo
+        # Zawsze (także po błędzie), żeby repo miało aktywność i GitHub nie wyłączył harmonogramu po 60 dniach.
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add autopilot/ostatnie_uruchomienie.txt autopilot/uzyte.json HARMONOGRAM.md
+          if git diff --cached --quiet; then
+            echo "Brak zmian do zapisania."
+            exit 0
+          fi
+          git commit -m "Autopilot: uruchomienie $(TZ=Europe/Warsaw date '+%Y-%m-%d %H:%M')"
+          for proba in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
