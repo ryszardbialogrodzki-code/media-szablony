@@ -1,4 +1,19 @@
 {
   "opis": "Lista postów utworzonych przez autopilota (plik, kanał, typ, data publikacji, ID posta w Buffer). Nie edytuj ręcznie, chyba że chcesz, żeby autopilot uznał jakiś plik za nieużyty (usuń jego wpis).",
-  "wpisy": []
+  "wpisy": [
+    {
+      "plik": "premium/filmy/wersja_A.mp4",
+      "kanal": "tiktok",
+      "typ": "film",
+      "data": "2026-11-30T18:00:00+01:00",
+      "id_posta": "6b04a7a207fee37ee6ff3848"
+    },
+    {
+      "plik": "premium/filmy/wersja_A.mp4",
+      "kanal": "youtube",
+      "typ": "film",
+      "data": "2026-11-30T18:00:00+01:00",
+      "id_posta": "6b04a7a2c0a1a00006dee618"
+    }
+  ]
 }

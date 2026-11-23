@@ -51,6 +51,8 @@ Stories: naklejka z linkiem do produktu z grafiki. Limit Buffer free: 10 zaplano
 | 2026-11-27 08:30 | IG | story | second-brain/filmy/wersja_B.mp4 |
 | 2026-11-27 11:00 | IG | post | second-brain/posty/02_para (6) |
 | 2026-11-27 18:00 | TikTok, YT | film | second-brain/filmy/wersja_B.mp4 |
+| 2026-11-30 18:00 | TikTok | film | premium/filmy/wersja_A.mp4 |
+| 2026-11-30 18:00 | YT | film | premium/filmy/wersja_A.mp4 |
 
 Niewykorzystane:
 - Posty feed SB: 03_postep (karuzela), 04_przed_po, 05_sekcje.
