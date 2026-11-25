@@ -1,6 +1,6 @@
-Ostatnie uruchomienie autopilota: 2026-11-25 16:45:15 (czas polski)
-Tryb: podgląd (dry-run), nic nie utworzono w Buffer
-Do zaplanowania: 8
+Ostatnie uruchomienie autopilota: 2026-11-25 20:31:16 (czas polski)
+Tryb: prawdziwy
+Zaplanowano: 8
 Puste sloty: 12
-Zapytania do Buffer API: 1
+Zapytania do Buffer API: 9
 Wynik: OK

@@ -54,6 +54,14 @@ Stories: naklejka z linkiem do produktu z grafiki. Limit Buffer free: 10 zaplano
 | 2026-11-27 11:00 | IG | post | second-brain/posty/02_para (6) |
 | 2026-11-27 18:00 | YT | film | second-brain/filmy/wersja_B.mp4 |
 | 2026-11-30 18:00 | YT | film | premium/filmy/wersja_A.mp4 |
+| 2026-11-26 12:30 | IG | reels | premium/filmy/wersja_A.mp4 |
+| 2026-11-27 18:00 | IG | reels | premium/filmy/wersja_B.mp4 |
+| 2026-11-27 18:00 | TikTok | film | premium/filmy/wersja_A.mp4 |
+| 2026-11-28 10:00 | IG | story | premium/stories/01_hook.png |
+| 2026-11-28 12:30 | IG | reels | student-os/filmy/wersja_A.mp4 |
+| 2026-11-30 18:00 | TikTok | film | student-os/filmy/wersja_A.mp4 |
+| 2026-12-02 18:00 | TikTok | film | planer-slubny/filmy/wersja_A.mp4 |
+| 2026-12-02 18:00 | YT | film | student-os/filmy/wersja_A.mp4 |
 
 Niewykorzystane:
 - Posty feed SB: 03_postep (karuzela), 04_przed_po, 05_sekcje.

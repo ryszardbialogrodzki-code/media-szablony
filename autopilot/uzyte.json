@@ -7,6 +7,62 @@
       "typ": "film",
       "data": "2026-11-30T18:00:00+01:00",
       "id_posta": "6b04a7a2c0a1a00006dee618"
+    },
+    {
+      "plik": "premium/filmy/wersja_A.mp4",
+      "kanal": "instagram",
+      "typ": "reels",
+      "data": "2026-11-26T12:30:00+01:00",
+      "id_posta": "6b073785c06d6883dadade9f"
+    },
+    {
+      "plik": "premium/filmy/wersja_B.mp4",
+      "kanal": "instagram",
+      "typ": "reels",
+      "data": "2026-11-27T18:00:00+01:00",
+      "id_posta": "6b073786c06d6883dadadf25"
+    },
+    {
+      "plik": "premium/filmy/wersja_A.mp4",
+      "kanal": "tiktok",
+      "typ": "film",
+      "data": "2026-11-27T18:00:00+01:00",
+      "id_posta": "6b073786c06d6883dadadf7e"
+    },
+    {
+      "plik": "premium/stories/01_hook.png",
+      "kanal": "instagram",
+      "typ": "story",
+      "data": "2026-11-28T10:00:00+01:00",
+      "id_posta": "6b073787c06d6883dadadfa5"
+    },
+    {
+      "plik": "student-os/filmy/wersja_A.mp4",
+      "kanal": "instagram",
+      "typ": "reels",
+      "data": "2026-11-28T12:30:00+01:00",
+      "id_posta": "6b073787650fcc0cfee51546"
+    },
+    {
+      "plik": "student-os/filmy/wersja_A.mp4",
+      "kanal": "tiktok",
+      "typ": "film",
+      "data": "2026-11-30T18:00:00+01:00",
+      "id_posta": "6b073788650fcc0cfee51593"
+    },
+    {
+      "plik": "planer-slubny/filmy/wersja_A.mp4",
+      "kanal": "tiktok",
+      "typ": "film",
+      "data": "2026-12-02T18:00:00+01:00",
+      "id_posta": "6b073788e6fe52f29f953062"
+    },
+    {
+      "plik": "student-os/filmy/wersja_A.mp4",
+      "kanal": "youtube",
+      "typ": "film",
+      "data": "2026-12-02T18:00:00+01:00",
+      "id_posta": "6b073789c06d6883dadae0c8"
     }
   ]
 }
