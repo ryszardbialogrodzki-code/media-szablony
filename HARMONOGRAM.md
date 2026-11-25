@@ -2,7 +2,7 @@
 
 Kanały Buffer (org 6a37eceadecfdb9517e32e0d):
 - Instagram szablonynotion: 6adcecef778b240e2fb17cb5
-- TikTok szablonynotion: 6addf6f12f1f5ed648c80d5c
+- TikTok lifenotionkit: 6b0701f18541f09ecb9eae38 (od 25.11.2026; wcześniej szablonynotion – jego zaplanowane posty usunięte przy odłączeniu)
 - YouTube Szablony_Notion: 6b047cfe8541f09ecb79c29f
 
 Linki naffy:
@@ -43,15 +43,15 @@ Stories: naklejka z linkiem do produktu z grafiki. Limit Buffer free: 10 zaplano
 | 2026-11-24 18:00 | IG | reels | second-brain/filmy/wersja_A.mp4 |
 | 2026-11-25 08:30 | IG | story | second-brain/posty/02_para/slajd_01.png |
 | 2026-11-25 11:00 | IG | post | second-brain/posty/01_chaos (8) |
-| 2026-11-25 18:00 | TikTok, YT | film | second-brain/filmy/wersja_A.mp4 |
+| 2026-11-25 18:00 | YT | film | second-brain/filmy/wersja_A.mp4 |
+| 2026-11-25 18:00 | TikTok | film | second-brain/filmy/wersja_A.mp4 |
 | 2026-11-25 20:30 | IG | story | second-brain/filmy/wersja_A.mp4 |
 | 2026-11-26 08:30 | IG | story | second-brain/filmy/okladka_B.png |
 | 2026-11-26 18:00 | IG | reels | second-brain/filmy/wersja_B.mp4 |
 | 2026-11-26 20:30 | IG | story | second-brain/posty/03_postep/slajd_01.png |
 | 2026-11-27 08:30 | IG | story | second-brain/filmy/wersja_B.mp4 |
 | 2026-11-27 11:00 | IG | post | second-brain/posty/02_para (6) |
-| 2026-11-27 18:00 | TikTok, YT | film | second-brain/filmy/wersja_B.mp4 |
-| 2026-11-30 18:00 | TikTok | film | premium/filmy/wersja_A.mp4 |
+| 2026-11-27 18:00 | YT | film | second-brain/filmy/wersja_B.mp4 |
 | 2026-11-30 18:00 | YT | film | premium/filmy/wersja_A.mp4 |
 
 Niewykorzystane:

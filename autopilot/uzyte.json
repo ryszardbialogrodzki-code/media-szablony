@@ -3,13 +3,6 @@
   "wpisy": [
     {
       "plik": "premium/filmy/wersja_A.mp4",
-      "kanal": "tiktok",
-      "typ": "film",
-      "data": "2026-11-30T18:00:00+01:00",
-      "id_posta": "6b04a7a207fee37ee6ff3848"
-    },
-    {
-      "plik": "premium/filmy/wersja_A.mp4",
       "kanal": "youtube",
       "typ": "film",
       "data": "2026-11-30T18:00:00+01:00",
