@@ -9,6 +9,7 @@ Linki naffy:
 - Second Brain podstawa: https://www.naffy.io/szablony-notion/second-brain-twoj-drugi-mozg-podstawa
 - Second Brain Premium: https://www.naffy.io/szablony-notion/second-brain-wersja-premium-kuk
 - Student OS: https://www.naffy.io/szablony-notion/student-os-system-do-nauki-w-notion-nqc
+- Planer Ślubny: https://www.naffy.io/szablony-notion/planer-slubny-szablon-notion-ktory-liczy-za-was-vzf
 
 ## Źródła materiałów na komputerze (sprawdzaj wszystkie przy każdym uzupełnianiu)
 - C:\Users\Asus\Desktop\film-second-brain\output\ — filmy Second Brain (już w repo), opis.txt
