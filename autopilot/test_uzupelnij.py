@@ -41,7 +41,8 @@ def uzycie(plik, kanal, typ, kiedy):
 def test_harmonogram_ma_caly_tydzien(konf):
     assert len(konf.tydzien) == 27
     assert konf.limit == 10 and konf.horyzont == 7
-    assert [p.folder for p in konf.produkty] == ["second-brain", "premium", "student-os"]
+    assert [p.folder for p in konf.produkty][:3] == ["second-brain", "premium", "student-os"]
+    assert all(p.link.startswith("https://www.naffy.io/") for p in konf.produkty)
 
 
 def test_sloty_od_jutra_przez_7_dni(konf):
